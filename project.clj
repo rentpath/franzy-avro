@@ -14,7 +14,7 @@
                                         :sign-releases false}}
             :dependencies [[org.clojure/clojure "1.8.0"]
                            [org.apache.kafka/kafka-clients "0.10.1.1"]
-                           [com.damballa/abracad "0.4.14-alpha2"]]
+                           [com.damballa/abracad "0.4.13"]]
             :plugins [[lein-codox "0.9.4"]]
             :codox {:metadata    {:doc/format :markdown}
                     :doc-paths   ["README.md"]
