@@ -1,0 +1,16 @@
+{
+  "namespace": "com.rentpath.data_platform",
+  "type": "record",
+  "name": "EventData",
+  "fields": [
+    {"name": "visitor", "type": {"type": "string", "avro.java.String": "String"}},
+    {"name": "visit", "type": {"type": "string", "avro.java.String": "String"}},
+    {"name": "action", "type": {"type": "string", "avro.java.String": "String"}},
+    {"name": "page", "type": {"type": "string", "avro.java.String": "String"}},
+    {"name": "selection", "type": {"type": "string", "avro.java.String": "String"}},
+    {"name": "profile", "type": {"type": "string", "avro.java.String": "String"}},
+    {"name": "subprofile", "type": {"type": "string", "avro.java.String": "String"}},
+    {"name": "seq", "type": {"type": "string", "avro.java.String": "String"}}
+  ],
+  "version": 1
+}
