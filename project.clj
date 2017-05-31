@@ -1,4 +1,4 @@
-(defproject com.rentpath/franzy-avro "0.0.2-SNAPSHOT"
+(defproject com.rentpath/franzy-avro "0.0.2"
   :description "(fork of franzy-avro) A Kafka Serializer/Deserializer supporting Avro, and an add-on for Franzy, a Clojure Kafka suite of libraries."
   :url "https://github.com/rentpath/franzy-avro"
   :author "rentpath, llc"
